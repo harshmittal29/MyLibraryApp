@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.TextView;
 
-import com.mindvalley.core.helper.DialogFactory;
+import library.example.com.myapplication.DialogFactory;
 
 
 public class MainActivity extends AppCompatActivity {

@@ -32,6 +32,3 @@ task clean(type: Delete) {
     delete rootProject.buildDir
 }
 
-ext{
-    coreLibraryVersion = '1.0.62'
-}

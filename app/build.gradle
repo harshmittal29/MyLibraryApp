@@ -31,7 +31,6 @@ dependencies {
     })
 
     compile project(":app-debug")
-    compile "com.mindvalley.module_core:module_core:${rootConfiguration.coreLibraryVersion}"
     compile 'com.android.support:appcompat-v7:26.+'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'

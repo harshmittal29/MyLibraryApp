@@ -6,16 +6,6 @@
     android:layout_height="match_parent"
     tools:context="myapp.example.com.libraryappexample.MainActivity">
 
-    <com.mindvalley.core.view.CustomTextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="center"
-        android:padding="@dimen/padding_10"
-        android:textColor="@color/white"
-        android:text="Team Two Much"
-        app:customTextView_fontface="BOLD"
-        android:textSize="@dimen/font_size_14"/>
-
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
